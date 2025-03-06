@@ -14,7 +14,7 @@ Unlike traditional cryptocurrency mining that solves arbitrary computational puz
 SKA is a novel neural learning framework based on information theory that redefines learning as a continuous process of knowledge accumulation. Key features:
 
 - Forward-only learning without backpropagation
-- Layer-wise entropy minimization: $H^{l} = \displaystyle -\frac{1}{ln(2)} \int z dD$
+- Layer-wise entropy minimization: $H^{l} = \displaystyle -\frac{1}{ln2} \int z dD$
 - Natural equilibrium condition via Tensor Net function
 - Sigmoid activation as an emergent property of entropy reduction
 
@@ -45,7 +45,7 @@ The blockchain component provides:
 
 The SKA Mining project is built on the governing differential equation of SKA:
 
-$$∇H^{l} + \displaystyle \frac{1}{ln(2)} z^{l}_k ⊙ D'^{l}_k + ΔD^{l}_k = 0$$
+$$∇H^{l} + \displaystyle \frac{1}{ln2} z^{l}_k ⊙ D'^{l}_k + ΔD^{l}_k = 0$$
 
 This equation defines how knowledge is structured across distributed nodes, with the Tensor Net function (∫ (D-H)dZ) providing a principled criterion for when knowledge has been optimally structured.
 
