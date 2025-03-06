@@ -14,7 +14,7 @@ Unlike traditional cryptocurrency mining that solves arbitrary computational puz
 SKA is a novel neural learning framework based on information theory that redefines learning as a continuous process of knowledge accumulation. Key features:
 
 - Forward-only learning without backpropagation
-- Layer-wise entropy minimization: $H^{l} = -\frac{1}{ln(2)} ∫ z dD$
+- Layer-wise entropy minimization: $H^{l} = -\frac{1}{ln(2)} \int z dD$
 - Natural equilibrium condition via Tensor Net function
 - Sigmoid activation as an emergent property of entropy reduction
 
