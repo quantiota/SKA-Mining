@@ -45,9 +45,9 @@ The blockchain component provides:
 
 The SKA Mining project is built on the governing differential equation of SKA:
 
-$$∇H^(l) + (1/ln(2)) z^(l)_k ⊙ D'^(l)_k + ΔD^(l)_k = 0$$
+$$∇H^{l} + (1/ln(2)) z^{l}_k ⊙ D'^{l}_k + ΔD^{l}_k = 0$$
 
-This equation defines how knowledge is structured across distributed nodes, with the Tensor Net function (∫ H dZ = ∫ D dZ) providing a principled criterion for when knowledge has been optimally structured.
+This equation defines how knowledge is structured across distributed nodes, with the Tensor Net function (∫ (D-H)dZ) providing a principled criterion for when knowledge has been optimally structured.
 
 ## Potential Applications
 
@@ -70,6 +70,5 @@ This repository contains the theoretical framework, implementation details, and 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
 
 *SKA Mining represents a paradigm shift in how we develop AI systems, moving from centralized training to distributed knowledge accumulation. By combining information-theoretic principles with blockchain technology, we aim to create more democratic, efficient, and transparent pathways for advancing artificial intelligence.*
