@@ -1,2 +1,1 @@
-# SKA-Mining
- MIning Structured Knowledge Accumulation 
+# MIning Structured Knowledge Accumulation 
