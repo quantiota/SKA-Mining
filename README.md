@@ -1,1 +1,1 @@
-# MIning Structured Knowledge Accumulation 
+# Mining Structured Knowledge Accumulation 
