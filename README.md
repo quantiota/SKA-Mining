@@ -1,5 +1,5 @@
 
-# SKA Mining: Decentralized Knowledge Accumulation
+# SKA Mining: Decentralized Structured Knowledge Accumulation
 
 ## Overview
 
